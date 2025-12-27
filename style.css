@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #F4F6F8;
+  color: #003A8F;
+}
+
+header {
+  background: #005DAA;
+  padding: 15px 20px;
+  display: flex;
+  align-items: center;
+}
+
+header img {
+  height: 50px;
+  margin-right: 20px;
+}
+
+header nav a {
+  color: white;
+  margin-right: 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+header nav a:hover {
+  text-decoration: underline;
+}
+
+.hero {
+  background: #003A8F;
+  color: white;
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.section {
+  background: white;
+  margin: 20px;
+  padding: 30px;
+  border-radius: 5px;
+}
+
+footer {
+  background: #005DAA;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-top: 40px;
+}
