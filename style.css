@@ -66,3 +66,6 @@ footer {
   margin-top: 8px;
 }
 
+.footer-logo-large {
+  height: 80px;       /* Bigger than the tiny icon before */
+  margin-top: 10px;
