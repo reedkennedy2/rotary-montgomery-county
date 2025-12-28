@@ -72,5 +72,10 @@ footer {
 .home-logo {
   max-width: 300px;
   width: 100%;
-  margin: 30px auto;
   display: block;
+  margin: 0 auto;
+}
+
+.logo-center {
+  text-align: center;
+}
