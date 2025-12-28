@@ -69,3 +69,8 @@ footer {
 .footer-logo-large {
   height: 80px;       /* Bigger than the tiny icon before */
   margin-top: 10px;
+.home-logo {
+  max-width: 300px;
+  width: 100%;
+  margin: 30px auto;
+  display: block;
