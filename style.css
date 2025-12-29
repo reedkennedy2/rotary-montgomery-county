@@ -70,12 +70,17 @@ footer {
   height: 80px;       /* Bigger than the tiny icon before */
   margin-top: 10px;
   
+.hero-center {
+  text-align: center; /* centers all text and inline/block elements inside */
+}
+
 .home-logo {
-  max-width: 300px;   /* adjust size as needed */
+  max-width: 300px;  /* adjust size as needed */
   width: 100%;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;    /* ensures block-level centering */
+  margin-bottom: 20px; /* spacing between logo and title */
+}
 }
 
 .logo-center {
